@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-End`**
 
-Me chamo Matheus Martins, tenho 17 anos e sou de São Paulo. Sou estudante, atualmente estou no ultimo ano do ensino médio. Atualmente, estou estudando e cursando online, de maneira autodidata. Sou apaixonado por tecnologia 
+Me chamo Matheus Martins, tenho 17 anos e sou de São Paulo. Sou estudante, atualmente estou no último ano do ensino médio. Atualmente, estou estudando e cursando online, de maneira autodidata. Sou apaixonado por tecnologia e meu foco principal é me tornar Full-Stack.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
