@@ -5,21 +5,21 @@
 Me chamo Matheus Martins, tenho 17 anos e sou de São Paulo. Sou estudante, atualmente estou no último ano do ensino médio. Atualmente, estou estudando e cursando online, de maneira autodidata. Sou apaixonado por tecnologia e meu foco principal é me tornar Full-Stack.
 
 <p align="left">
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/MartnsProjetos">
     <img 
       alt="GitHub" 
       title="Visite meu GitHub" 
       src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" 
     />
   </a>
-  <a href="https://www.linkedin.com/in/seu-usuario/">
+  <a href="https://www.linkedin.com/in/martinsdeveloper/">
     <img 
       alt="LinkedIn" 
       title="Conecte-se comigo no LinkedIn" 
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
     />
   </a>
-  <a href="https://seu-portfolio.vercel.app">
+  <a href="https://martinsdevcode.netfly.app">
     <img 
       alt="Portfólio" 
       title="Veja meu portfólio" 
