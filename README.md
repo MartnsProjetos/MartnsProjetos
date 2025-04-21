@@ -6,7 +6,7 @@ Me chamo Matheus Martins, tenho 17 anos e sou de São Paulo. Sou estudante, atua
 
 <p align="left">
   📄 Acesse meu currículo completo 
-  <a href="https://drive.google.com/file/d/1T-PvZbt2XuXL0u_xF1m6-HbUkTR__8Fc/view" target="_blank"><strong>Ver Currículo</strong></a>
+  <a href="[https://drive.google.com/file/d/1T-PvZbt2XuXL0u_xF1m6-HbUkTR__8Fc/view](https://drive.google.com/file/d/1T-PvZbt2XuXL0u_xF1m6-HbUkTR__8Fc/view)" target="_blank"><strong>Ver Currículo</strong></a>
 </p>
 
 
