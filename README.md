@@ -44,5 +44,29 @@ Me chamo Matheus Martins, tenho 17 anos e sou de São Paulo. Sou estudante, atua
 
 ### 📊 Estatísticas
 
-<p> <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&locale=pt-br" /> <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&langs_count=9" /> </p>
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<a href="https://github.com/seu-usuario">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true"
+  />
+</a>
+
+<a href="https://github.com/seu-usuario">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=10&theme=tokyonight&locale=pt-br&custom_title=Linguagens%20mais%20usadas"
+  />
+</a>
+
+<a href="https://github.com/seu-usuario">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=seu-usuario&theme=tokyo-night&hide_border=true&locale=pt-br"
+  />
+</a>
+
+</div>
 
