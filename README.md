@@ -4,7 +4,11 @@
 
 Me chamo Matheus Martins, tenho 17 anos e sou de São Paulo. Sou estudante, atualmente estou no último ano do ensino médio. Atualmente, estou estudando e cursando online, de maneira autodidata. Sou apaixonado por tecnologia e meu foco principal é me tornar Full-Stack.
 
-<p>Curriculo</p><a href=""><p>Ver</P></a>
+<p align="center">
+  📄 <strong>Quer saber mais sobre minha trajetória?</strong> Acesse meu currículo completo clicando no link ao lado 👉  
+  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank"><strong>Ver Currículo</strong></a>
+</p>
+
 
 <p align="left">
   <a href="https://github.com/MartnsProjetos">
