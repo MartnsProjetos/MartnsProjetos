@@ -15,7 +15,7 @@ Me chamo Matheus Martins, tenho 17 anos e sou de São Paulo. Sou estudante, atua
     <img 
       alt="GitHub" 
       title="Visite meu GitHub" 
-      src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" 
+      src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" target="_blank" 
     />
   </a>
   <a href="https://www.linkedin.com/in/matheusmartnsdeveloper/">
