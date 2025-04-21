@@ -12,21 +12,21 @@ Me chamo Matheus Martins, tenho 17 anos e sou de São Paulo. Sou estudante, atua
       src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" 
     />
   </a>
-  <a href="https://www.linkedin.com/in/martinsdeveloper/">
+  <a href="https://www.linkedin.com/in/matheusmartnsdeveloper/">
     <img 
       alt="LinkedIn" 
       title="Conecte-se comigo no LinkedIn" 
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
     />
   </a>
-  <a href="https://martinsdevcode.netfly.app">
+  <a href="https://martinsdevcode.netlify.app/">
     <img 
       alt="Portfólio" 
       title="Veja meu portfólio" 
       src="https://img.shields.io/badge/Portfólio-111?style=for-the-badge&logo=vercel&logoColor=white" 
     />
   </a>
-  <a href="https://instagram.com/seu-perfil">
+  <a href="https://instagram.com/martns_.dev">
     <img 
       alt="Instagram" 
       title="Me siga no Instagram" 
