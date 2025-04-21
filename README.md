@@ -18,7 +18,7 @@ Me chamo Matheus Martins, tenho 17 anos e sou de São Paulo. Sou estudante, atua
       src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" target="_blank" 
     />
   </a>
-  <a href="https://www.linkedin.com/in/matheusmartnsdeveloper/">
+  <a href="https://www.linkedin.com/in/matheusmartnsdeveloper/" target="_blank">
     <img 
       alt="LinkedIn" 
       title="Conecte-se comigo no LinkedIn" 
@@ -32,7 +32,7 @@ Me chamo Matheus Martins, tenho 17 anos e sou de São Paulo. Sou estudante, atua
       src="https://img.shields.io/badge/Portfólio-111?style=for-the-badge&logo=vercel&logoColor=white" 
     />
   </a>
-  <a href="https://instagram.com/martns_.dev">
+  <a href="https://instagram.com/martns_.dev" target="_blank">
     <img 
       alt="Instagram" 
       title="Me siga no Instagram" 
