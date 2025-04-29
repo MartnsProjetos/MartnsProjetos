@@ -56,12 +56,7 @@ Me chamo Matheus Martins, tenho 17 anos e sou de São Paulo. Estou no último an
 
 <div align="center">
 
-  <a href="https://github.com/MartnsProjetos">
-    <img 
-      height="180em" 
-      src="https://github-readme-stats.vercel.app/api?username=MartnsProjetos&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true"
-    />
-  </a>
+  
 
   <a href="https://github.com/MartnsProjetos">
     <img 
