@@ -52,25 +52,3 @@ Me chamo Matheus Martins, tenho 17 anos e sou de São Paulo. Estou no último an
 
 
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-
-  
-
-  <a href="https://github.com/MartnsProjetos">
-    <img 
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartnsProjetos&layout=compact&langs_count=10&theme=tokyonight&locale=pt-br&custom_title=Linguagens%20mais%20usadas"
-    />
-  </a>
-
-  <a href="https://github.com/MartnsProjetos">
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=MartnsProjetos&theme=tokyo-night&hide_border=true&locale=pt-br"
-    />
-  </a>
-
-</div>
-
-</center>
