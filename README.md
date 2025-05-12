@@ -22,7 +22,7 @@ Tenho 17 anos, sou de São Paulo e estudo de forma autodidata por meio de cursos
 
 ---
 
-## 🚀 Tecnologias que estou estudando e aprimorando
+## 🚀 Tecnologias
 
 
 <p align="left">
