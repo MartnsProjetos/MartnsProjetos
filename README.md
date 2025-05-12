@@ -46,8 +46,8 @@ Tenho 17 anos, sou de São Paulo e estudo de forma autodidata por meio de cursos
 
 ## 📬 Contato
 
-- **Email**: mtv.martins2s03@gmail.com  
-- **WhatsApp**: [Clique aqui para conversar](https://wa.me/5511963823159)  
+- **Email**: mtz.martinss03@gmail.com  
+- **WhatsApp**: [Clique aqui para conversar](https://wa.me/5511963822159)  
 - **LinkedIn**: [linkedin.com/in/matheusmartnsdeveloper](https://www.linkedin.com/in/matheusmartnsdeveloper)  
 - **Portfólio**: [martinsdevcode.netlify.app](https://martinsdevcode.netlify.app)
 
