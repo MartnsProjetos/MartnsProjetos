@@ -25,15 +25,12 @@ Tenho 17 anos, sou de São Paulo e estudo de forma autodidata por meio de cursos
 ## 🚀 Tecnologias que uso
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" title="Tailwind" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java" />
 </p>
 
 ---
@@ -46,12 +43,12 @@ Tenho 17 anos, sou de São Paulo e estudo de forma autodidata por meio de cursos
 
 ---
 
-## 🌐 Me encontre por aqui
+## 📬 Contato
 
-- [Portfólio](https://martinsdevcode.netlify.app/)
-- [LinkedIn](https://www.linkedin.com/in/matheusmartnsdeveloper/)
-- [GitHub](https://github.com/MartnsProjetos)
-- [Instagram](https://instagram.com/martns_.dev)
+- **Email**: mtv.martins2s03@gmail.com  
+- **WhatsApp**: [Clique aqui para conversar](https://wa.me/5511963823159)  
+- **LinkedIn**: [linkedin.com/in/matheusmartnsdeveloper](https://www.linkedin.com/in/matheusmartnsdeveloper)  
+- **Portfólio**: [martinsdevcode.netlify.app](https://martinsdevcode.netlify.app)
 
 ---
 
