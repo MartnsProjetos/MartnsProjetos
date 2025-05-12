@@ -23,10 +23,10 @@
 ---
 
 ## Sobre mim
+Tenho 17 anos, moro em São Paulo e atualmente curso o último ano do ensino médio no período noturno.
+Durante o dia, me dedico aos estudos de forma autodidata, através de cursos online e projetos práticos.
+Sou extremamente esforçado, apaixonado por tecnologia e sempre busco evoluir minhas habilidades para conquistar meu espaço como desenvolvedor Full Stack.
 
-Tenho 17 anos, sou de São Paulo e estudo de forma autodidata por meio de cursos online.  
-Meu principal objetivo é atuar como desenvolvedor Full Stack, começando pelo Front-End, onde já venho me especializando.  
-Sou dedicado, curioso e sempre em busca de novos desafios.
 
 [**Ver meu currículo completo**](https://drive.google.com/file/d/1RcWssKfUAw-CPd4lTTQgQuMk-ouVCkyh/view?usp=drivesdk)
 
