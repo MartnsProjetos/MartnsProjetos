@@ -32,7 +32,7 @@ Sou dedicado, curioso e sempre em busca de novos desafios.
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## 🚀 Tecnologias
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
