@@ -22,7 +22,8 @@ Tenho 17 anos, sou de São Paulo e estudo de forma autodidata por meio de cursos
 
 ---
 
-## 🚀 Tecnologias que uso
+## 🚀 Tecnologias que estou estudando e aprimorando
+
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript" />
