@@ -1,62 +1,59 @@
-## # 👩🏻‍💻 Matheus Martins
+<h1 align="center">Olá, eu sou o Matheus Martins!</h1>
 
-**`Desenvolvedora Front-End`**
-
-Me chamo Matheus Martins, tenho 17 anos e sou de São Paulo. Estou no último ano do ensino médio e, paralelamente, me dedico aos estudos de forma autodidata por meio de cursos online. Sou apaixonado por tecnologia e tenho como principal objetivo me tornar um desenvolvedor Full Stack.
-
-<p align="left">
-  📄 Acesse meu currículo completo 
-  <a href="https://drive.google.com/file/d/1RcWssKfUAw-CPd4lTTQgQuMk-ouVCkyh/view?usp=drivesdk" target="_blank"><strong>Ver Currículo</strong></a>
+<p align="center">
+  <strong>Desenvolvedor Front-End em formação | Futuro Full Stack</strong><br/>
+  Estudante do último ano do ensino médio | Apaixonado por tecnologia
 </p>
 
-
-<p align="left">
-  <a href="https://github.com/MartnsProjetos">
-    <img 
-      alt="GitHub" 
-      title="Visite meu GitHub" 
-      src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" target="_blank" 
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/matheusmartnsdeveloper/" target="_blank">
-    <img 
-      alt="LinkedIn" 
-      title="Conecte-se comigo no LinkedIn" 
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
-    />
-  </a>
-  <a href="https://martinsdevcode.netlify.app/">
-    <img 
-      alt="Portfólio" 
-      title="Veja meu portfólio" 
-      src="https://img.shields.io/badge/Portfólio-111?style=for-the-badge&logo=vercel&logoColor=white" 
-    />
-  </a>
-  <a href="https://instagram.com/martns_.dev" target="_blank">
-    <img 
-      alt="Instagram" 
-      title="Me siga no Instagram" 
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-    />
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Portfólio-111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </p>
-
 
 ---
-<center>
-### 🤖 Linguagens e Tecnologias
 
-<p align="left"> <img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img alt="Node.js" title="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img alt="Tailwind CSS" title="Tailwind CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /> <img alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> </p>
-<br/><br/>
+## Sobre mim
 
+Tenho 17 anos, sou de São Paulo e estudo de forma autodidata por meio de cursos online. Meu principal objetivo é atuar como desenvolvedor Full Stack, começando pelo Front-End, onde já venho me especializando. Sou dedicado, curioso e sempre em busca de novos desafios.
 
+[**Ver meu currículo completo**](https://drive.google.com/file/d/1RcWssKfUAw-CPd4lTTQgQuMk-ouVCkyh/view?usp=drivesdk)
 
+---
 
-</div>
+## 🚀 Tecnologias que uso
 
-</center>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" title="Tailwind" />
+</p>
 
+---
 
+## 📊 Estatísticas do GitHub
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MartnsProjetos&show_icons=true&theme=radical&hide=prs,issues)
 
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MartnsProjetos&layout=compact&theme=radical)
 
+---
+
+## 🌐 Me encontre por aqui
+
+- [Portfólio](https://martinsdevcode.netlify.app/)
+- [LinkedIn](https://www.linkedin.com/in/matheusmartnsdeveloper/)
+- [GitHub](https://github.com/MartnsProjetos)
+- [Instagram](https://instagram.com/martns_.dev)
+
+---
+
+> “Transforme problemas. Codifique soluções.”  
+> — Matheus Martins
