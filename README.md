@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Matheus Martins Ribeiro!</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Front-End em formação | Futuro Full Stack</strong><br/>
+  <strong>Desenvolvedor Full Stack em formação | Futuro Engenheiro de Software</strong><br/>
   Estudante do último ano do ensino médio | Apaixonado por tecnologia
 </p>
 
@@ -25,7 +25,7 @@
 ## Sobre mim
 Tenho 17 anos, moro em São Paulo e atualmente curso o último ano do ensino médio no período noturno.
 Durante o dia, me dedico aos estudos de forma autodidata, através de cursos online e projetos práticos.
-Sou extremamente esforçado, apaixonado por tecnologia e sempre busco evoluir minhas habilidades para conquistar meu espaço como desenvolvedor Full Stack.
+Sou extremamente esforçado, apaixonado por tecnologia e sempre busco evoluir minhas habilidades.
 
 
 [**Ver meu currículo completo**](https://drive.google.com/file/d/1RcWssKfUAw-CPd4lTTQgQuMk-ouVCkyh/view?usp=drivesdk)
