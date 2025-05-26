@@ -28,7 +28,7 @@ Durante o dia, me dedico aos estudos de forma autodidata, através de cursos onl
 Sou extremamente esforçado, apaixonado por tecnologia e sempre busco evoluir minhas habilidades.
 
 
-[**Ver meu currículo completo**](https://drive.google.com/file/d/1mLBI6ixBBkBnFD1b_XAYYbosXEGekzbm/view)
+[**Ver meu currículo completo**](https://drive.google.com/file/d/1NIsSKXQMM-jtBu_uM1CWehjT_W96e3g5/view?usp=sharing)
 
 ---
 
