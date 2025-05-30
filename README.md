@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Desenvolvedor Full Stack em formação | Futuro Engenheiro de Software</strong><br/>
-  Estudante do último ano do ensino médio | Apaixonado por tecnologia
+  Estudante Java - ALura | Apaixonado por tecnologia
 </p>
 
 <p align="center">
