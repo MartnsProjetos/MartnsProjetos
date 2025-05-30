@@ -23,10 +23,7 @@
 ---
 
 ## Sobre mim
-Tenho 18 anos, moro em São Paulo e atualmente curso o último ano do ensino médio no período noturno.
-Durante o dia, me dedico aos estudos de forma autodidata, através de cursos online e projetos práticos.
-Sou extremamente esforçado, apaixonado por tecnologia e sempre busco evoluir minhas habilidades.
-
+Tenho 18 anos, moro em São Paulo e curso o último ano do ensino médio. Me especializo em Java pela Alura, com foco em orientação a objetos, interfaces e boas práticas. Estudo de forma autodidata e desenvolvo projetos práticos com disciplina e consistência.
 
 [**Ver meu currículo completo**](https://drive.google.com/file/d/1NIsSKXQMM-jtBu_uM1CWehjT_W96e3g5/view?usp=sharing)
 
