@@ -23,7 +23,7 @@
 ---
 
 ## Sobre mim
-Tenho 17 anos, moro em São Paulo e atualmente curso o último ano do ensino médio no período noturno.
+Tenho 18 anos, moro em São Paulo e atualmente curso o último ano do ensino médio no período noturno.
 Durante o dia, me dedico aos estudos de forma autodidata, através de cursos online e projetos práticos.
 Sou extremamente esforçado, apaixonado por tecnologia e sempre busco evoluir minhas habilidades.
 
