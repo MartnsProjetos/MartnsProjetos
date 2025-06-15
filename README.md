@@ -46,10 +46,6 @@ Tenho 18 anos, moro em São Paulo e curso o último ano do ensino médio. Me esp
 ---
 
 
-
-
----
-
 ## 📬 Contato
 
 - **Email**: mtz.martinss03@gmail.com  
