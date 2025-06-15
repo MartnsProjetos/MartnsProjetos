@@ -46,124 +46,27 @@ Tenho 18 anos, moro em São Paulo e curso o último ano do ensino médio. Me esp
 ---
 
 
-<h2>Contribuições por Linguagem (GitHub + Uso)</h2>
-<canvas id="commitsChart" width="600" height="400"></canvas>
+# Olá, eu sou Matheus Martins 👋
 
-<script>
-  const username = 'MartnsProjetos';
+## Minhas linguagens mais usadas
 
-  // Linguagens que você usa e a % inicial
-  const languages = {
-    Java: 70,
-    'Node.js': 6,
-    MySQL: 6,
-    JavaScript: 6,
-    HTML: 6,
-    CSS: 6
-  };
+| Linguagem  | Uso aproximado |
+|------------|---------------:|
+| Java       | 70%            |
+| Node.js    | 6%             |
+| MySQL      | 6%             |
+| JavaScript | 6%             |
+| HTML       | 6%             |
+| CSS        | 6%             |
 
-  // Função para buscar repositórios do usuário
-  async function fetchRepos() {
-    const response = await fetch(`https://api.github.com/users/${username}/repos`);
-    if (!response.ok) {
-      alert('Erro ao buscar repositórios do GitHub');
-      return [];
-    }
-    return await response.json();
-  }
+---
 
-  // Função para contar commits recentes em cada repo
-  async function fetchCommits(repoName) {
-    // Busca commits do último mês (30 dias)
-    const since = new Date();
-    since.setDate(since.getDate() - 30);
-    const sinceISO = since.toISOString();
+## Estatísticas do GitHub
 
-    const url = `https://api.github.com/repos/${username}/${repoName}/commits?since=${sinceISO}`;
-    const response = await fetch(url);
-    if (!response.ok) return [];
-    return await response.json();
-  }
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MartnsProjetos&show_icons=true&theme=radical)
 
-  async function main() {
-    const repos = await fetchRepos();
-    // Objeto para contar commits por linguagem
-    const commitCounts = {
-      Java: 0,
-      'Node.js': 0,
-      MySQL: 0,
-      JavaScript: 0,
-      HTML: 0,
-      CSS: 0
-    };
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartnsProjetos&layout=compact&theme=radical)
 
-    for (const repo of repos) {
-      const lang = repo.language;
-      if (!commitCounts.hasOwnProperty(lang)) continue;
-
-      const commits = await fetchCommits(repo.name);
-      commitCounts[lang] += commits.length;
-    }
-
-    // Agora vamos combinar o uso (percentual fixo) + commits da API
-    // Para visualizar, vamos somar o uso + commits (normalizando commits)
-
-    // Normaliza commits para escala 0-30 (arbitrário)
-    const maxCommits = Math.max(...Object.values(commitCounts), 1);
-    for (const lang in commitCounts) {
-      // Normaliza a 30%
-      commitCounts[lang] = (commitCounts[lang] / maxCommits) * 30;
-    }
-
-    // Soma uso + commits normalizados
-    const finalData = {};
-    for (const lang in languages) {
-      finalData[lang] = languages[lang] + (commitCounts[lang] || 0);
-    }
-
-    renderChart(finalData);
-  }
-
-  function renderChart(data) {
-    const ctx = document.getElementById('commitsChart').getContext('2d');
-    new Chart(ctx, {
-      type: 'bar',
-      data: {
-        labels: Object.keys(data),
-        datasets: [{
-          label: 'Contribuição (%)',
-          data: Object.values(data),
-          backgroundColor: [
-            '#5382a1', // Java - azul
-            '#3c873a', // Node - verde
-            '#f29111', // MySQL - laranja
-            '#f0db4f', // JS - amarelo
-            '#e44d26', // HTML - vermelho
-            '#264de4'  // CSS - azul
-          ],
-          borderRadius: 5,
-        }]
-      },
-      options: {
-        scales: {
-          y: {
-            beginAtZero: true,
-            max: 100
-          }
-        },
-        plugins: {
-          legend: { display: false },
-          tooltip: { enabled: true }
-        }
-      }
-    });
-  }
-
-  main();
-
-</script>
-</body>
-</html>
 
 ---
 
