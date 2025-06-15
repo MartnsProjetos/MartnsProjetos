@@ -33,7 +33,8 @@ Tenho 18 anos, moro em São Paulo e curso o último ano do ensino médio. Me esp
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
-  <img src="https://www.cleanpng.com/png-node-js-javascript-framework-green-logo-3797548/" width="60" title="Node.js (classic JS hexagon)" />
+  <img src="https://iconduck.com/icons/252970/node-js" width="60" title="Node.js (faceted hexagon)" />
+
 
 
 
