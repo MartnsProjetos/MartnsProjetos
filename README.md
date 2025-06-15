@@ -53,25 +53,52 @@ Tenho 18 anos, moro em São Paulo e curso o último ano do ensino médio. Me esp
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartnsProjetos&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
 </p>
-<div style="max-width: 400px;">
-  <p>Java: 70%</p>
-  <progress value="70" max="100" style="width: 100%;"></progress>
+<div style="max-width: 420px; font-family: Arial, sans-serif;">
 
-  <p>Node.js: 6%</p>
-  <progress value="6" max="100" style="width: 100%;"></progress>
+  <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" title="Java" />
+    <span style="width: 50px;">Java</span>
+    <progress value="70" max="100" style="flex-grow: 1; height: 14px; border-radius: 7px; overflow: hidden;"></progress>
+    <span style="width: 30px; text-align: right;">70%</span>
+  </div>
 
-  <p>MySQL: 6%</p>
-  <progress value="6" max="100" style="width: 100%;"></progress>
+  <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 6px;">
+    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="30" height="30" title="Node.js" />
+    <span style="width: 50px;">Node.js</span>
+    <progress value="6" max="100" style="flex-grow: 1; height: 14px; border-radius: 7px; overflow: hidden;"></progress>
+    <span style="width: 30px; text-align: right;">6%</span>
+  </div>
 
-  <p>JavaScript: 6%</p>
-  <progress value="6" max="100" style="width: 100%;"></progress>
+  <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" title="MySQL" />
+    <span style="width: 50px;">MySQL</span>
+    <progress value="6" max="100" style="flex-grow: 1; height: 14px; border-radius: 7px; overflow: hidden;"></progress>
+    <span style="width: 30px; text-align: right;">6%</span>
+  </div>
 
-  <p>HTML: 6%</p>
-  <progress value="6" max="100" style="width: 100%;"></progress>
+  <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" title="JavaScript" />
+    <span style="width: 50px;">JavaScript</span>
+    <progress value="6" max="100" style="flex-grow: 1; height: 14px; border-radius: 7px; overflow: hidden;"></progress>
+    <span style="width: 30px; text-align: right;">6%</span>
+  </div>
 
-  <p>CSS: 6%</p>
-  <progress value="6" max="100" style="width: 100%;"></progress>
+  <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" title="HTML" />
+    <span style="width: 50px;">HTML</span>
+    <progress value="6" max="100" style="flex-grow: 1; height: 14px; border-radius: 7px; overflow: hidden;"></progress>
+    <span style="width: 30px; text-align: right;">6%</span>
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" title="CSS" />
+    <span style="width: 50px;">CSS</span>
+    <progress value="6" max="100" style="flex-grow: 1; height: 14px; border-radius: 7px; overflow: hidden;"></progress>
+    <span style="width: 30px; text-align: right;">6%</span>
+  </div>
+
 </div>
+
 
 
 ---
