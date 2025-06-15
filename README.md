@@ -45,18 +45,6 @@ Tenho 18 anos, moro em São Paulo e curso o último ano do ensino médio. Me esp
 
 ---
 
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8" />
-  <title>Gráfico de commits GitHub</title>
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-  <style>
-    body { font-family: Arial, sans-serif; max-width: 700px; margin: 40px auto; }
-    canvas { max-width: 100%; }
-  </style>
-</head>
-<body>
 
 <h2>Contribuições por Linguagem (GitHub + Uso)</h2>
 <canvas id="commitsChart" width="600" height="400"></canvas>
