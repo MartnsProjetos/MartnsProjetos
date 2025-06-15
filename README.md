@@ -47,12 +47,6 @@ Tenho 18 anos, moro em São Paulo e curso o último ano do ensino médio. Me esp
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MartnsProjetos&show_icons=true&theme=radical&hide=prs,issues" alt="Estatísticas GitHub" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartnsProjetos&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
-</p>
 <div style="max-width: 420px; font-family: Arial, sans-serif;">
 
   <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 6px;">
