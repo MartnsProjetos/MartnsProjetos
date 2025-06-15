@@ -46,7 +46,7 @@ Tenho 18 anos, moro em São Paulo e curso o último ano do ensino médio. Me esp
 ---
 
 
-# Olá, eu sou Matheus Martins 👋
+
 
 ## Minhas linguagens mais usadas
 
@@ -59,13 +59,13 @@ Tenho 18 anos, moro em São Paulo e curso o último ano do ensino médio. Me esp
 | HTML       | 6%             |
 | CSS        | 6%             |
 
----
-
 ## Estatísticas do GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MartnsProjetos&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartnsProjetos&layout=compact&theme=radical)
+---
+
 
 
 ---
