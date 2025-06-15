@@ -33,7 +33,8 @@ Tenho 18 anos, moro em São Paulo e curso o último ano do ensino médio. Me esp
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
-  <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" width="60" title="Node.js" />
+  <img src="https://iconduck.com/icons/27728/node-js.svg" width="60" title="Node.js" />
+
 
 
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="60" title="MySQL" />
