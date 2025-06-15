@@ -53,6 +53,26 @@ Tenho 18 anos, moro em São Paulo e curso o último ano do ensino médio. Me esp
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartnsProjetos&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
 </p>
+<div style="max-width: 400px;">
+  <p>Java: 70%</p>
+  <progress value="70" max="100" style="width: 100%;"></progress>
+
+  <p>Node.js: 6%</p>
+  <progress value="6" max="100" style="width: 100%;"></progress>
+
+  <p>MySQL: 6%</p>
+  <progress value="6" max="100" style="width: 100%;"></progress>
+
+  <p>JavaScript: 6%</p>
+  <progress value="6" max="100" style="width: 100%;"></progress>
+
+  <p>HTML: 6%</p>
+  <progress value="6" max="100" style="width: 100%;"></progress>
+
+  <p>CSS: 6%</p>
+  <progress value="6" max="100" style="width: 100%;"></progress>
+</div>
+
 
 ---
 
