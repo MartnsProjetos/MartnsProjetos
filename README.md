@@ -31,9 +31,9 @@ Tenho 18 anos, moro em São Paulo e curso o último ano do ensino médio. Me esp
 
 [**Ver meu currículo completo**](https://drive.google.com/file/d/1NIsSKXQMM-jtBu_uM1CWehjT_W96e3g5/view?usp=sharing)
 
----
 
-## 🚀 Tecnologias
+
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java" />
