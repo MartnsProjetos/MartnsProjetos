@@ -50,13 +50,5 @@ Tenho 18 anos, moro em São Paulo e curso o último ano do ensino médio. Me esp
 ---
 
 
-## 📬 Contato
-
-- **Email**: mtz.martinss03@gmail.com  
-- **WhatsApp**: [Clique aqui para conversar](https://wa.me/5511963822159)  
-- **LinkedIn**: [linkedin.com/in/matheusmartnsdeveloper](https://www.linkedin.com/in/matheusmartnsdeveloper)  
-- **Portfólio**: [martins-dev.netlify.app](https://martins-dev.netlify.app/)
-
----
 
 <p align="center"><em>“Transforme problemas. Codifique soluções.”</em><br/>— Matheus Martins</p> 
