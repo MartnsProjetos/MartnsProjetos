@@ -27,7 +27,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,nodejs,mysql,postgresql)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=spring,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,canva,springboot,javafx,express,react,bootstrap,tailwindcss,nodemailer,bcrypt,jwt,mongoose,sequelize)](https://skillicons.dev)
+
 
 ### 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,canva,springboot,javafx,express,react,bootstrap,tailwindcss,nodemailer,bcrypt,jwt,mongoose,sequelize)](https://skillicons.dev)
