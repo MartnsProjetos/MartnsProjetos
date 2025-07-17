@@ -30,7 +30,8 @@
 [![My Skills](https://skillicons.dev/icons?i=spring,express)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,canva,springboot,javafx,express,react,bootstrap,tailwindcss,gson,resttemplate,httpclient,fuzzywuzzy,nodemailer,bcrypt,jwt,mongoose,sequelize,bodyparser,cors,dotenv)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,canva,springboot,javafx,express,react,bootstrap,tailwindcss,nodemailer,bcrypt,jwt,mongoose,sequelize)](https://skillicons.dev)
+
 
 
 <!-- Container flexível para ajustar imagem e texto lado a lado no PC e empilhado no celular -->
