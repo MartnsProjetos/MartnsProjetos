@@ -35,7 +35,7 @@ Organizo meus aprendizados e projetos no GitHub, com foco em desafios, cursos e 
 > Acredito que o melhor aprendizado vem da prática e da construção de soluções reais 🚀
 
 ## Tecnologias e linguagens 💻
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,nodejs,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,nodejs,mysql,postgresql)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
 [![My Skills](https://skillicons.dev/icons?i=spring,express,react)](https://skillicons.dev)
