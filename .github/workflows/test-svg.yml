@@ -1,0 +1,36 @@
+name: Test SVG generation and push
+
+on:
+  workflow_dispatch:
+
+jobs:
+  create-svg:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Create dist folder and SVG file
+        run: |
+          mkdir -p dist
+          echo '<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
+          <rect width="200" height="200" fill="lightblue"/>
+          <text x="10" y="20" font-family="Arial" font-size="20" fill="navy">Teste SVG</text>
+          </svg>' > dist/test.svg
+          ls -la dist/
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+      - name: Commit and push to output branch
+        run: |
+          git checkout -B output
+          git add dist/test.svg
+          git commit -m "Add test SVG file"
+          git push origin output --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
