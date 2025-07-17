@@ -15,6 +15,11 @@
 - 🌟 Aluno Monitor em Português, apoiando colegas com reforço escolar
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/main/.github/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/main/.github/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/main/.github/pacman-contribution-graph.svg" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
