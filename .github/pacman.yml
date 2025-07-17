@@ -1,33 +1,24 @@
-name: Generate pacman animation
+name: Test output generation
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
-  generate:
+  test:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: MartnsProjetos
+      - name: Create dist folder and test file
+        run: |
+          mkdir dist
+          echo "teste do arquivo" > dist/test.txt
+          ls -la dist/
 
-      - name: List dist folder contents
-        run: ls -la dist/
-
-      - name: Push pacman-contribution-graph.svg to output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
