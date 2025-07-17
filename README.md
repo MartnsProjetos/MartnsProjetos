@@ -30,7 +30,7 @@
 [![My Skills](https://skillicons.dev/icons?i=spring,express)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,canva)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,canva,Excel, Word, PowerPoint)](https://skillicons.dev)
 
 <!-- Container flexível para ajustar imagem e texto lado a lado no PC e empilhado no celular -->
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
