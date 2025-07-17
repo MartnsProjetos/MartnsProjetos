@@ -1,0 +1,31 @@
+name: Generate contribution graph
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate contribution stats
+        uses: jasonlong/github-contribution-stats@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          username: MartnsProjetos
+          output-file: dist/contribution.svg
+
+      - name: Commit and push to output branch
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git checkout -B output
+          git add dist/contribution.svg
+          git commit -m "Add contribution graph"
+          git push origin output --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
