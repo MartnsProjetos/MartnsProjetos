@@ -24,7 +24,10 @@ jobs:
         with:
           github_user_name: MartnsProjetos
 
-      - name: Push pacman-contribution-graph.svg to the output branch
+      - name: List dist folder contents
+        run: ls -la dist/
+
+      - name: Push pacman-contribution-graph.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
