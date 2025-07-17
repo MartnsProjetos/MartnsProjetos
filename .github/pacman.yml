@@ -1,24 +1,31 @@
-name: Test output generation
+name: Generate pacman animation
 
 on:
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  test:
-    runs-on: ubuntu-latest
+  generate:
     permissions:
       contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - name: Create dist folder and test file
+      # Passo para criar o SVG de teste
+      - name: Create test SVG
         run: |
-          mkdir dist
-          echo "teste do arquivo" > dist/test.txt
-          ls -la dist/
+          mkdir -p dist
+          echo '<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200"><rect width="200" height="200" fill="lightblue"/><text x="10" y="20" font-family="Arial" font-size="20" fill="navy">Teste SVG</text></svg>' > dist/test.svg
 
-      - name: Push to output branch
+      - name: Push pacman-contribution-graph.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
