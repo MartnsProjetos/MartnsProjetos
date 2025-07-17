@@ -1,34 +1,33 @@
-name: Generate pacman animation
+name: Test manual push to output branch
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
-  generate:
+  manual-push:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      # Passo para criar o SVG de teste
-      - name: Create test SVG
+      - name: Create dist folder and test SVG file
         run: |
           mkdir -p dist
-          echo '<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200"><rect width="200" height="200" fill="lightblue"/><text x="10" y="20" font-family="Arial" font-size="20" fill="navy">Teste SVG</text></svg>' > dist/test.svg
+          echo '<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200"><rect width="200" height="200" fill="lightblue"/><text x="10" y="20" font-family="Arial" font-size="20" fill="navy">Teste SVG manual</text></svg>' > dist/test.svg
+          ls -la dist/
 
-      - name: Push pacman-contribution-graph.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+      - name: Commit and push to output branch
+        run: |
+          git checkout -B output
+          git add dist/test.svg
+          git commit -m "Add test.svg from manual push workflow" || echo "No changes to commit"
+          git push origin output --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
