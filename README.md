@@ -46,7 +46,7 @@ Organizo meus aprendizados e projetos no GitHub, com foco em desafios, cursos e 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
 <p align="left"> 
-  Atuo com <strong>desenvolvimento web</strong> usando HTML, CSS, JavaScript, Node.js e MySQL. <br><br>
+  Atuo com <strong>desenvolvimento web</strong> usando HTML, CSS, JavaScript, Node.js e MySQL/postgresql. <br><br>
   Atualmente me aprofundo em <strong>Java com Spring Boot</strong> e sigo aplicando meus aprendizados em projetos práticos e desafios. <br><br>
   Tenho também experiência com <strong>design visual</strong> e criação de catálogos para e-commerces e redes sociais, sempre buscando alinhar código com estética e funcionalidade.
 </p>
