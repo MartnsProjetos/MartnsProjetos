@@ -1,0 +1,23 @@
+name: Pacman Contributions Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Atualiza diariamente
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: MartnsProjetos
+          outputs: |
+            dist/pacman-light.svg
+            dist/pacman-dark.svg
+
+      - name: Publicar no GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
