@@ -49,6 +49,10 @@ Tenho 18 anos, moro em São Paulo e curso o último ano do ensino médio. Me esp
 
 ---
 
+### 📊 GitHub Stats
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartnsProjetos&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartnsProjetos&layout=compact&theme=dark)
+
 
 
 <p align="center"><em>“Transforme problemas. Codifique soluções.”</em><br/>— Matheus Martins</p> 
