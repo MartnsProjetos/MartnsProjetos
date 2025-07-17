@@ -1,24 +1,25 @@
 # 💜 Olá, eu sou o Matheus!
 
 <p align="left">
-  Desenvolvedor em formação, apaixonado por tecnologia e sempre em busca de soluções criativas e eficientes. <br>
-  Tenho focado meus estudos em <strong>Java</strong>, <strong>JavaScript</strong> e <strong>Node.js</strong>, aplicando esse conhecimento em projetos reais enquanto trilho minha jornada rumo à Engenharia de Software.
+  Desenvolvedor Full Stack em formação, apaixonado por transformar ideias em soluções práticas com código. <br>
+  Tenho focado meus estudos em <strong>Java</strong> e <strong>Spring Boot</strong> no back-end, além de <strong>Node.js</strong> e <strong>JavaScript</strong> para aplicações web. Sempre busco aplicar o que aprendo em projetos reais.
 </p>
 
 ## Sobre mim
 
-- 🖥️ Experiência com desenvolvimento web (front-end e back-end)
-- 🎓 Estudando para me tornar Engenheiro de Software
-- 📚 Aprofundando meus conhecimentos em Java, JavaScript, Node.js, SQL e Spring Boot
-- 🌍 Crio soluções e sistemas com propósito, sempre aprendendo algo novo
-- ❤️ Faço projetos práticos e compartilho conhecimento com outros devs iniciantes
+- 🎓 Técnico em Desenvolvimento de Sistemas
+- 📚 Estudando Java, Spring Boot, JavaScript, Node.js, HTML, CSS e MySQL
+- 🖥️ Experiência com desenvolvimento web e criação de sistemas fullstack
+- 💼 Atuação em projetos pessoais, landing pages e design para e-commerce
+- 🏆 2x Medalhista de Prata na Olimpíada de Matemática (OMASP)
+- 🌟 Aluno Monitor em Português, apoiando colegas com reforço escolar
 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
@@ -29,39 +30,43 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartnsProjetos&layout=compact&langs_count=6&theme=radical"/>
 
 ## 📚 Meus estudos
-Organizo meus aprendizados e projetos no meu GitHub, incluindo desafios resolvidos, anotações e sistemas em desenvolvimento contínuo.
+Organizo meus aprendizados e projetos no GitHub, com foco em desafios, cursos e sistemas próprios.
 
-> Acredito que a prática é o melhor caminho para o aprendizado 🚀
+> Acredito que o melhor aprendizado vem da prática e da construção de soluções reais 🚀
 
 ## Tecnologias e linguagens 💻
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,sql,nodejs,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,nodejs,mysql)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=spring,react,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,express,react)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
 <p align="left"> 
-  Tenho experiência com projetos fullstack e APIs REST. Atualmente estudo <strong>Java com Spring Boot</strong> no back-end, e utilizo <strong>Node.js</strong> e <strong>JavaScript</strong> para criar soluções práticas. Também conheço <strong>MySQL</strong> e <strong>MongoDB</strong> para persistência de dados. <br><br>
-  Meu foco está em transformar teoria em sistemas funcionais e prontos para uso.
+  Atuo com <strong>desenvolvimento web</strong> usando HTML, CSS, JavaScript, Node.js e MySQL. <br><br>
+  Atualmente me aprofundo em <strong>Java com Spring Boot</strong> e sigo aplicando meus aprendizados em projetos práticos e desafios. <br><br>
+  Tenho também experiência com <strong>design visual</strong> e criação de catálogos para e-commerces e redes sociais, sempre buscando alinhar código com estética e funcionalidade.
 </p>
 
 ---
 
 <p align="left">
-  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou chame no WhatsApp! 💌✨
+  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou me chame no WhatsApp! 💌✨
 </p>
 
 <p align="left">
   <a href="mailto:mtz.martinss03@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/matheus-martins-ti/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/matheusmartnsdeveloper/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
   <a href="https://wa.me/5511963822159" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&labelColor=25D366&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&labelColor=25D366&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 <div align="center">
@@ -69,7 +74,6 @@ Organizo meus aprendizados e projetos no meu GitHub, incluindo desafios resolvid
 </div>
 
 <div align="center">
-  
   [![Matheus Martins's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MartnsProjetos&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <img src="https://streak-stats.demolab.com?user=MartnsProjetos&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
