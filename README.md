@@ -41,7 +41,7 @@ Organizo meus aprendizados e projetos no GitHub, com foco em desafios, cursos e 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
 <p align="left"> 
-  Atuo com <strong>desenvolvimento web</strong> usando HTML, CSS, JavaScript, Node.js e MySQL/postgresql. <br><br>
+  Atuo com <strong>desenvolvimento web</strong> usando HTML, CSS, JavaScript, Node.js e MySQL/PostgreSQL. <br><br>
   Atualmente me aprofundo em <strong>Java com Spring Boot</strong> e sigo aplicando meus aprendizados em projetos práticos e desafios. <br><br>
   Tenho também experiência com <strong>design visual</strong> e criação de catálogos para e-commerces e redes sociais, sempre buscando alinhar código com estética e funcionalidade.
 </p>
@@ -69,7 +69,7 @@ Organizo meus aprendizados e projetos no GitHub, com foco em desafios, cursos e 
 </div>
 
 <div align="center">
-  [![Matheus Martins's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MartnsProjetos&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MartnsProjetos&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true" alt="Gráfico de Atividades GitHub de Matheus Martins" />
 
   <img src="https://streak-stats.demolab.com?user=MartnsProjetos&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
   <img src="https://github-profile-trophy.vercel.app?username=MartnsProjetos&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
