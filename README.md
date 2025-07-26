@@ -3,7 +3,10 @@
 <p align="left">
   Desenvolvedor Full Stack em formação, apaixonado por transformar ideias em soluções práticas com código. <br>
   Tenho focado meus estudos em <strong>Java</strong> e <strong>Spring Boot</strong> no back-end, além de <strong>Node.js</strong> e <strong>JavaScript</strong> para aplicações web. Sempre busco aplicar o que aprendo em projetos reais.
+  <br><br>
+  <strong>Currículo:</strong> <a href="https://drive.google.com/your-pdf-link-aqui" target="_blank">Clique aqui para visualizar</a>
 </p>
+
 
 ## Sobre mim
 
