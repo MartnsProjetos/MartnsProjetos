@@ -2,7 +2,7 @@
 
 <p align="left">
   Desenvolvedor Full Stack em formação, Tenho focado meus estudos em 
-  <strong>Java</strong> e <strong>Spring Boot</strong> no back-end, além de fazer aplicações web. Sempre busco aplicar o que aprendo em projetos reais.
+  <strong>Java</strong> e <strong>Spring Boot</strong> no back-end, além de fazer aplicações web. Sou autodidata e extremamente esforçado e proativo.
   <br>
   <strong>Currículo:</strong> <a href="https://drive.google.com/file/d/1PUaRMP-870MPbz_A2Nucaf5hu0kHgcYC/view?usp=sharing">Clique aqui para visualizar</a>
 </p>
