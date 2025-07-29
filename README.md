@@ -51,15 +51,7 @@
   </div>
 
   <!-- Texto com largura flexível, alinhado à esquerda -->
-  <div style="flex: 1 1 300px; max-width: 600px; text-align: left;">
-    <p>
-      Atuo com <strong>desenvolvimento web</strong> usando HTML, CSS, JavaScript, Node.js e MySQL/PostgreSQL.<br><br>
-      Atualmente me aprofundo em <strong>Java com Spring Boot</strong> e sigo aplicando meus aprendizados em projetos práticos e desafios.<br><br>
-      Tenho também experiência com <strong>design visual</strong> e criação de catálogos para e-commerces e redes sociais, sempre buscando alinhar código com estética e funcionalidade.
-    </p>
-  </div>
 
-</div>
 
 <hr>
 
