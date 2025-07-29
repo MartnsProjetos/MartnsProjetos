@@ -42,13 +42,7 @@
 
 
   <!-- Imagem com tamanho responsivo e alinhada à esquerda no PC -->
-  <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
-    <img 
-      src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
-      alt="ilustração de um computador" 
-      style="width: 100%; max-width: 400px; height: auto; display: inline-block;"
-    >
-  </div>
+
 
   <!-- Texto com largura flexível, alinhado à esquerda -->
 
