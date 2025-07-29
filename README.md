@@ -65,9 +65,7 @@
   </a>
 </p>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MartnsProjetos.MartnsProjetos&left_color=darkviolet&right_color=orchid" width="80" />
-</div>
+
 
 <div align="center" style="margin-top: 10px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MartnsProjetos&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true" alt="Gráfico de Atividades GitHub de Matheus Martins" style="max-width: 100%; height: auto;" />
