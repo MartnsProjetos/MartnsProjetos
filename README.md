@@ -67,8 +67,6 @@
 
 
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MartnsProjetos&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true" alt="Gráfico de Atividades GitHub de Matheus Martins" style="max-width: 100%; height: auto;" />
 
   <img src="https://streak-stats.demolab.com?user=MartnsProjetos&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph" style="margin-top: 10px;" /> <br/>
   
