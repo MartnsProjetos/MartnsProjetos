@@ -11,7 +11,6 @@
 ## Sobre mim
 
 - Estudante em Desenvolvimento de Sistemas
-- Estudando Java, Spring Boot, JavaScript, Node.js, HTML, CSS, MySQL e PostgreSQL
 - Experiência com desenvolvimento web e criação de sistemas fullstack
 - Atuação em projetos pessoais, landing pages e design para e-commerce
 - 2x Medalhista de Prata na Olimpíada de Matemática (OMASP) 1x Medalhista (OBMEP)
