@@ -1,4 +1,4 @@
-# 🧑🏽‍💻 Olá, eu sou o Matheus!
+#  Olá, eu sou o Matheus!
 
 <p align="left">
   Desenvolvedor Full Stack em formação, Tenho focado meus estudos em 
