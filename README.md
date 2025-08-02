@@ -12,7 +12,7 @@
 
 - Estudante em Desenvolvimento de Sistemas
 - Experiência com desenvolvimento web e criação de sistemas fullstack
-- Atuação em projetos pessoais, landing pages e design para e-commerce
+- Atuação em projetos como, landing pages e design para e-commerce
 - 2x Medalhista de Prata na Olimpíada de Matemática (OMASP) 1x Medalhista (OBMEP)
 - Aluno Monitor em Português, apoiando colegas com reforço escolar
 
@@ -49,7 +49,7 @@
 <hr>
 
 <p align="left">
-  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou me chame no WhatsApp! 💌✨
+  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn, acesse meu portfólio ou me chame no WhatsApp! 💌✨
 </p>
 
 <p align="left">
@@ -58,6 +58,9 @@
   </a>
   <a href="https://www.linkedin.com/in/matheusmartnsdeveloper/" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://martins-dev.netlify.app" title="Portfólio">
+    <img src="https://img.shields.io/badge/-Portfólio-008080?style=flat-square&logo=appveyor&logoColor=white"/>
   </a>
   <a href="https://wa.me/5511963822159" title="WhatsApp">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&labelColor=25D366&logo=whatsapp&logoColor=white"/>
