@@ -1,7 +1,7 @@
 #  Olá, eu sou o Matheus!
 
 <p align="left">
-  Desenvolvedor Backend, focado em aprimorar minhas habilidades com <strong>Java</strong> e <strong>Spring Boot</strong> no back-end, além de desenvolver aplicações web completas.  
+  Desenvolvedor Backend, focado em aprimorar minhas habilidades com <strong>Java</strong>, <strong>Spring Boot</strong> e <strong> SQL <strong> no back-end, além de desenvolver aplicações web completas.  
   Sou autodidata, dedicado, proativo e extremamente esforçado.  
   <br>
   <strong>Currículo:</strong> <a href="https://drive.google.com/file/d/1PUaRMP-870MPbz_A2Nucaf5hu0kHgcYC/view?usp=sharing" target="_blank" rel="noopener noreferrer">Clique aqui para visualizar</a>
