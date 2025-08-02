@@ -21,7 +21,7 @@ jobs:
       - name: Generate SVG
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: MartnsProjetos
+          github_user_name: MartnsDev
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
