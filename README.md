@@ -1,10 +1,10 @@
 #  Olá, eu sou o Matheus!
 
 <p align="left">
-  Desenvolvedor Full Stack em formação, Tenho focado meus estudos em 
-  <strong>Java</strong> e <strong>Spring Boot</strong> no back-end, além de fazer aplicações web completo. Sou autodidata e extremamente esforçado e proativo.
+  Desenvolvedor Full Stack em formação, focado em aprimorar minhas habilidades com <strong>Java</strong> e <strong>Spring Boot</strong> no back-end, além de desenvolver aplicações web completas.  
+  Sou autodidata, dedicado, proativo e extremamente esforçado.  
   <br>
-  <strong>Currículo:</strong> <a href="https://drive.google.com/file/d/1PUaRMP-870MPbz_A2Nucaf5hu0kHgcYC/view?usp=sharing">Clique aqui para visualizar</a>
+  <strong>Currículo:</strong> <a href="https://drive.google.com/file/d/1PUaRMP-870MPbz_A2Nucaf5hu0kHgcYC/view?usp=sharing" target="_blank" rel="noopener noreferrer">Clique aqui para visualizar</a>
 </p>
 
 
